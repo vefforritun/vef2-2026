@@ -12,9 +12,9 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 4    | 2. febrúar  | Form; cookies & sessions; postgres        | Hópverkefni #1       |                             |
 | 5    | 9. febrúar  | Notendaumsjón; vefþjónustur; hýsing       | Verkefni #3          | Verkefni #2                 |
 | 6    | 16. febrúar | Cache, redis; Öryggi                      |                      | Einstaklingsverkefni, fyrri |
-| 7    | 23. febrúar | Framenda framework; React                 |                      | Verkefni #3                 |
+| 7    | 23. febrúar | Framenda framework; React                 | Hópverkefni #2       | Verkefni #3                 |
 | 8    | 2. mars     | React                                     | Verkefni #4          | Hópverkefni #1              |
-| 9    | 9. mars     | React; Next.js                            | Hópverkefni #2       |                             |
+| 9    | 9. mars     | React; Next.js                            |                      |                             |
 | 10   | 16. mars    | Next.js; GraphQL                          | Verkefni #5          | Verkefni #4                 |
 | 11   | 23. mars    | Next.js; GraphQL                          |                      |                             |
 | 12   | 30. mars    | **Páskaleyfi 1.–7. apríl**                |                      |                             |
