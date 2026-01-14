@@ -16,7 +16,12 @@ Mikilvægastu verkefni nemenda verða að setja upp umhverfi (node, npm, github,
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 14. janúar.
+- [Vefforritun 2, 2026, fyrirlestur 1.1: Kynning](https://youtu.be/8100iGg9BGU)
+- [Vefforritun 2, 2026, fyrirlestur 1.2: Námsefni og fyrirlestrar](https://youtu.be/VSJYWXlmC_Q)
+- [Vefforritun 2, 2026, Verkefni 1](https://youtu.be/eJOuNaSY22s)
+- [Vefforritun 2, 2026, fyrirlestur 1.3: Unnið í verkefni 1](https://youtu.be/FEasxXboP4Q)
+
+[Repo með því sem unnið var í fyrirlestri](https://github.com/vefforritun/vef2-2026-v1-unnid-i-tima).
 
 ## Námsefni
 
