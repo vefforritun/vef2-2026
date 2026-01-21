@@ -8,7 +8,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | ---- | ----------- | ----------------------------------------- | -------------------- | --------------------------- |
 | 1    | 12. janúar  | Kynning; form áfanga; vef1; Node.js & NPM | Verkefni #1          |                             |
 | 2    | 19. janúar  | Testing; TypeScript; HTTP; Hono/Express   | Einstaklingsverkefni |                             |
-| 3    | 26. janúar  | TypeScript; HTTP; Hono/Express            | Verkefni #2          | Verkefni #1                 |
+| 3    | 26. janúar  | TypeScript; HTTP; Hono/Express; postgres  | Verkefni #2          | Verkefni #1                 |
 | 4    | 2. febrúar  | Form; cookies & sessions; postgres        | Hópverkefni #1       |                             |
 | 5    | 9. febrúar  | Notendaumsjón; vefþjónustur; hýsing       | Verkefni #3          | Verkefni #2                 |
 | 6    | 16. febrúar | Cache, redis; Öryggi                      |                      | Einstaklingsverkefni, fyrri |
