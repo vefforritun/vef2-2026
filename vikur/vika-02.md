@@ -8,7 +8,11 @@ Dæmatímar í vikunni.
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 21. janúar.
+- [Fyrirlestur 2.1: Kynning á einstaklingsverkefni](https://youtu.be/oO_c5E2brEk)
+- [Fyrirlestur 2.2: Verkefni 1, strúktúr og netlify](https://youtu.be/M1R26dQFzj4)
+- [Fyrirlestur 2.3: Verkefni 1, laga build og setja upp á netlify](https://youtu.be/YHIH8kpHSwI)
+- [Fyrirlestur 2.4: Verkefni 1, tests og github actions](https://youtu.be/HMXqEO4bTPc)
+- [Fyrirlestur 2.5: Verkefni 1, js á client og index.html](https://youtu.be/sfe3JdG4tl0)
 
 ## Námsefni
 
