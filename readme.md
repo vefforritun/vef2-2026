@@ -18,9 +18,9 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 10   | 16. mars    | Next.js; GraphQL                          | Verkefni #5          | Verkefni #4                 |
 | 11   | 23. mars    | Next.js; GraphQL                          |                      |                             |
 | 12   | 30. mars    | **Páskaleyfi 1.–7. apríl**                |                      |                             |
-| 13   | 7. apríl    | Kynningar                                 |                      | Verkefni #5; Hópverkefni #2 |
-| 14   | 14. apríl   | Kynningar                                 |                      |                             |
-| 15   | 21. apríl   | Buffer                                    |                      | Einstaklingsverkefni, loka  |
+| 13   | 6. apríl    | Kynningar                                 |                      | Verkefni #5; Hópverkefni #2 |
+| 14   | 13. apríl   | Kynningar                                 |                      |                             |
+| 15   | 20. apríl   | Buffer                                    |                      | Einstaklingsverkefni, loka  |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
@@ -57,6 +57,8 @@ Efni vikunnar er sett inn viku fyrr. Fyrirlestrarnir fara í nánari yfirferð �
 
 - [Vika 1, 12.–18. janúar 2026](vikur/vika-01.md)
   - Kynning; form áfanga; vef1; Node.js & NPM
+- [Vika 2, 19.–25. janúar 2026](vikur/vika-02.md)
+  - Testing; TypeScript; HTTP; Hono/Express
 
 ## Verkefni
 
