@@ -8,7 +8,12 @@ Kynnum hópverkefni 1 sem er að smíða vefþjónustur, förum í það námsef
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 4. febrúar.
+- [Fyrirlestur 4.1: Hópverkefni 1](https://youtu.be/drSfiKd0Zjs)
+- [Fyrirlestur 4.2: Verkefni 1, yfirferð á sýnilausn](https://youtu.be/3Rg9UrrJsLU)
+- [Fyrirlestur 4.3: Verkefni 2, CSS og layout](https://youtu.be/u-B2rhH3L_U)
+- [Fyrirlestur 4.4: Verkefni 2, zod og búa til todo](https://youtu.be/LU4YGY19W9s)
+
+[Repo með því sem unnið var í tíma](https://github.com/vefforritun/vef2-2026-v2-unnid-i-tima).
 
 ## Námsefni
 
