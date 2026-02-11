@@ -2,7 +2,12 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 11. febrúar.
+- [Fyrirlestur 5.1, v2 og uppsetning á render](https://youtu.be/VixO286LOrQ)
+- [Fyrirlestur 5.2, verkefni 3](https://youtu.be/zUl8M6cYdPg)
+- [Fyrirlestur 5.3, vefþjónustur, REST og v3 byrjun](https://youtu.be/raHUaCWlOXA)
+- [Fyrirlestur 5.4, v3 Hono uppsetning og Postman](https://youtu.be/QrbTlOjDnzM)
+
+[Repo með því sem unnið var í tíma](https://github.com/vefforritun/vef2-2026-v3-unnid-i-tima).
 
 ## Námsefni
 
