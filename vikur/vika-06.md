@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 18. febrúar.
+- [Vefforritun 2, 2026, fyrirlestur 6.1, yfirferð á sýnilausn v2](https://youtu.be/IxFKzAHWFHQ)
+- [Vefforritun 2, 2026, fyrirlestur 6.2, prisma uppsetning í v3](https://youtu.be/U_TkMXdF9Xo)
+- [Vefforritun 2, 2026, fyrirlestur 6.3, prisma uppsetning frh.](https://youtu.be/il_dbIFPbAk)
+- [Vefforritun 2, 2026, fyrirlestur 6.4, Hono og Zod í v3](https://youtu.be/o0ASqqRGTXA)
 
 ## Námsefni
 
