@@ -51,7 +51,7 @@ Fyrirlestrar eru haldnir 15:00-17:20 á miðvikudögum. Í einhverjum vikum ver�
 
 Efni vikunnar er sett inn viku fyrr. Fyrirlestrarnir fara í nánari yfirferð á mikilvægum atriðum úr fyrirlestrum, yfirferð á dæmum, vinnu í verkefnum og umræður.
 
-[Upptökur af öllum fyrirlestrum má nálgast á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozyI1pbFapAheuDC-olT_7go).
+[Upptökur af öllum fyrirlestrum má nálgast á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozyYA7z_iNw-CaYl5A4qUTiU).
 
 ### Vikur
 
@@ -59,6 +59,16 @@ Efni vikunnar er sett inn viku fyrr. Fyrirlestrarnir fara í nánari yfirferð �
   - Kynning; form áfanga; vef1; Node.js & NPM
 - [Vika 2, 19.–25. janúar 2026](vikur/vika-02.md)
   - Testing; TypeScript; HTTP; Hono/Express
+- [Vika 3, 26. janúar–1. febrúar 2026](vikur/vika-03.md)
+  - TypeScript; HTTP; Hono/Express; postgres
+- [Vika 4, 2.–8. febrúar 2026](vikur/vika-04.md)
+  - Form; cookies & sessions; postgres
+- [Vika 5, 9.–15. febrúar 2026](vikur/vika-05.md)
+  - Notendaumsjón; vefþjónustur; hýsing
+- [Vika 6, 16.–22. febrúar 2026](vikur/vika-06.md)
+  - Cache, redis; Öryggi
+- [Vika 7, 23. febrúar–1. mars 2026](vikur/vika-07.md)
+  - Framenda framework; React
 
 ## Verkefni
 
