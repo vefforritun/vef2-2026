@@ -69,6 +69,16 @@ Efni vikunnar er sett inn viku fyrr. Fyrirlestrarnir fara í nánari yfirferð �
   - Cache, redis; Öryggi
 - [Vika 7, 23. febrúar–1. mars 2026](vikur/vika-07.md)
   - Framenda framework; React
+- [Vika 8, 2.–8. mars 2026](vikur/vika-08.md)
+  - React
+- [Vika 9, 9.–15. mars 2026](vikur/vika-09.md)
+  - React; Next.js
+- [Vika 10, 16.–22. mars 2026](vikur/vika-10.md)
+  - Next.js; GraphQL
+- [Vika 11, 23.–29. mars 2026](vikur/vika-11.md)
+  - Next.js; GraphQL
+- [Vika 12, 30. mars–5. apríl 2026](vikur/vika-12.md)
+  - **Páskaleyfi 1.–7. apríl**
 
 ## Verkefni
 

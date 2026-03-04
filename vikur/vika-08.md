@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 4. mars.
+- [Vefforritun 2, 2026, fyrirlestur 8.1: h1, hono og better-auth dæmi](https://youtu.be/gqFKvuegmDc)
+- [Vefforritun 2, 2026, fyrirlestur 8.2: v4 kynning, react byrjun](https://youtu.be/VDF1Kcn9DDI)
+- [Vefforritun 2, 2026, fyrirlestur 8.3: v4 react router og sækja gögn](https://youtu.be/0DiYyf_aHCk)
 
 ## Námsefni
 
