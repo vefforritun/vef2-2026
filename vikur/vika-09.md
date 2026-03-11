@@ -2,7 +2,12 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 11. mars.
+- [Fyrirlestur 9.1: Hópverkefni 2](https://youtu.be/ujRajcJkkuc)
+- [Fyrirlestur 9.2: v4, stöður forrits](https://youtu.be/x3m-iB1gfzk)
+- [Fyrirlestur 9.3: v4, fetch útfærsla](https://youtu.be/fSdyGz4k6UI)
+- [Fyrirlestur 9.4: v4, forma virkni](https://youtu.be/MQV9hKhlsWA)
+
+[Repo með því sem unnið var í tíma](https://github.com/vefforritun/vef2-2026-v4-unnid-i-tima).
 
 ## Námsefni
 
