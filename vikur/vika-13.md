@@ -1,17 +1,14 @@
-# Vika 11, 23.–29. mars 2026
+# Vika 13, 6.–12. apríl 2026
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 25. mars.
+Páskafrí á mánudegi.
 
-## Námsefni
-
-- [Next.js](../namsefni/18.nextjs/)
-- [GraphQL](../namsefni/19.graphql/)
+Kynningar á miðvikudegi.
 
 ## Verkefni
 
-- [ ] Vinna í [verkefni 5](https://github.com/vefforritun/vef2-2026-v5)
+- [ ] Skila [verkefni 5](https://github.com/vefforritun/vef2-2026-v5)
 - [ ] Vinna í [hópverkefni 2](https://github.com/vefforritun/vef2-2026-h2)
 - [ ] Vinna í [einstaklingsverkefni](https://github.com/vefforritun/vef2-2026-einstaklings)
 - [ ] Undirbúa kynningu á [einstaklingsverkefni](https://github.com/vefforritun/vef2-2026-einstaklings)

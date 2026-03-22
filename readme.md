@@ -18,8 +18,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 10   | 16. mars    | Next.js; GraphQL                          | Verkefni #5          | Verkefni #4                 |
 | 11   | 23. mars    | Next.js; GraphQL                          |                      |                             |
 | 12   | 30. mars    | **Páskaleyfi 1.–7. apríl**                |                      |                             |
-| 13   | 6. apríl    | Kynningar                                 |                      | Verkefni #5; Hópverkefni #2 |
-| 14   | 13. apríl   | Kynningar                                 |                      |                             |
+| 13   | 6. apríl    | Kynningar                                 |                      | Verkefni #5                 |
+| 14   | 13. apríl   | Kynningar                                 |                      | Hópverkefni #2              |
 | 15   | 20. apríl   | Buffer                                    |                      | Einstaklingsverkefni, loka  |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
@@ -87,7 +87,21 @@ Efni vikunnar er sett inn viku fyrr. Fyrirlestrarnir fara í nánari yfirferð �
 - [Verkefni 1](https://github.com/vefforritun/vef2-2026-v1)
   - Sett fyrir miðvikudaginn 14. janúar
   - Skilist fimmtudaginn 29. janúar
-  - [Sýnilausn](https://github.com/vefforritun/vef2-2026-v1-synilausn), gerð aðgengileg eftir skil
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2026-v1-synilausn)
+- [Verkefni 2](https://github.com/vefforritun/vef2-2026-v2)
+  - Sett fyrir miðvikudaginn 28. janúar
+  - Skilist fimmtudaginn 12. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2026-v2-synilausn)
+- [Verkefni 3](https://github.com/vefforritun/vef2-2026-v3)
+  - Sett fyrir miðvikudaginn 11. febrúar
+  - Skilist fimmtudaginn 26. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2026-v3-synilausn)
+- [Verkefni 4](https://github.com/vefforritun/vef2-2026-v4)
+  - Sett fyrir miðvikudaginn 4. mars
+  - Skilist fimmtudaginn 19. mars
+- [Verkefni 5](https://github.com/vefforritun/vef2-2026-v5)
+  - Sett fyrir miðvikudaginn 18. mars
+  - Skilist fimmtudaginn 9. apríl
 
 ### Hópverkefni
 
