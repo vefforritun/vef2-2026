@@ -2,7 +2,14 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 25. mars.
+- [Fyrirlestur 11.1: Verkefni 5 og Next.js](https://youtu.be/gMbwvSt9sLU)
+- [Fyrirlestur 11.2: Next.js og server actions](https://youtu.be/7_y1TURgpYg)
+- [Fyrirlestur 11.3: v5 strapi og Next.js](https://youtu.be/t_UBiHe70AM)
+
+Repo sem við unnum í tíma:
+
+- [v5 Next.js grunnur](https://github.com/vefforritun/vef2-2026-v5-nextjs)
+- [v5 strapi](https://github.com/vefforritun/vef2-2026-v5-strapi)
 
 ## Námsefni
 
